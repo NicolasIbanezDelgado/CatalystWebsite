@@ -1,0 +1,98 @@
+body{ 
+    background-color: #2e924f;
+    padding: 20px;
+    align-items: center;
+}
+
+#title{
+  text-align: center;
+  color: black;
+  font-size: xx-large;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  align-self: center;
+}
+
+#dir{
+  color: black;
+  font-size: xx-large;
+  text-align: center;
+  align-items: center;
+  align-self: center;
+  /* font-family: korean;  */
+}
+
+
+  textarea{
+    position:relative;
+    color: rgba(41, 17, 94, 0.525);
+    font-size: x-large;
+    text-align: left;
+    border-width: 5px;
+    border-color: black;
+    align-items: center;
+  }
+
+  p{ 
+    color: black;
+    font-size: xx-large;
+    text-align: left;
+    font-family: korean; 
+  }
+
+  #long_list{
+    color: black;
+    font-size: xx-large;
+    text-align: center;
+    font-family: korean; 
+  }
+
+  ul{
+    font-size: xx-large;
+    font-style: italic;
+    display: inline-block;
+    list-style-type:square;
+  }
+
+  li{
+    font-size: x-large;
+    font-style: normal;
+    text-align: left;
+  }
+
+  img{
+    align-items: center;
+    position: relative;
+    background-position-x: center;
+  }
+
+  h1{
+    font-size: xx-large;
+    font-style: italic;
+    text-align: center;
+  }
+  h2{
+    font-size: xx-large;
+    font-style: italic;
+    text-align: center;
+  }
+
+  h3{
+    font-size: xx-large;
+    font-style: italic;
+    text-align: center;
+  }
+
+  #wp_list{
+    text-align: center;
+    list-style-type: none;
+    align-items: center;
+    align-self: center;
+    /* align-self: auto; */
+  }
+  
+  #git_repo{
+    text-align: center;
+    list-style-type: none;
+    align-items: center;
+    align-self: auto;
+  }
